@@ -1,4 +1,6 @@
-beancount==2.3.3
-pyyaml==5.4.1
-rich==12.4.4
-prompt-toolkit==3.0.30
+beancount==2.3.5
+pandas==1.5.2
+prompt_toolkit==3.0.36
+PyYAML==6.0
+rich==13.0.1
+textblob==0.17.1
